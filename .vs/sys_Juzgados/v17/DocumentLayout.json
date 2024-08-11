@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|c:\\proyectos_segundo_a\u00F1o\\izo\\proy_vb_y_sql\\sys_juzgados\\sys_juzgados\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|solutionrelative:sys_juzgados\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_juzgados\\frmestados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|solutionrelative:sys_juzgados\\frmestados.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_juzgados\\frmlocalidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|solutionrelative:sys_juzgados\\frmlocalidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_juzgados\\frmlocalidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3DDE328A-BA38-4B63-9F51-AC67308E81DE}|sys_Juzgados\\sys_Juzgados.vbproj|solutionrelative:sys_juzgados\\frmlocalidades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmMain.vb",
+              "RelativeDocumentMoniker": "sys_Juzgados\\frmMain.vb",
+              "ToolTip": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmMain.vb [Dise\u00F1o]",
+              "RelativeToolTip": "sys_Juzgados\\frmMain.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T18:41:30.087Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEstados.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmEstados.vb",
+              "RelativeDocumentMoniker": "sys_Juzgados\\frmEstados.vb",
+              "ToolTip": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmEstados.vb [Dise\u00F1o]",
+              "RelativeToolTip": "sys_Juzgados\\frmEstados.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T18:41:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLocalidades.vb",
+              "DocumentMoniker": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmLocalidades.vb",
+              "RelativeDocumentMoniker": "sys_Juzgados\\frmLocalidades.vb",
+              "ToolTip": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmLocalidades.vb",
+              "RelativeToolTip": "sys_Juzgados\\frmLocalidades.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-11-22T13:29:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLocalidades.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmLocalidades.vb",
+              "RelativeDocumentMoniker": "sys_Juzgados\\frmLocalidades.vb",
+              "ToolTip": "C:\\PROYECTOS_SEGUNDO_A\u00D1O\\IZO\\PROY_VB_Y_SQL\\sys_Juzgados\\sys_Juzgados\\frmLocalidades.vb [Dise\u00F1o]",
+              "RelativeToolTip": "sys_Juzgados\\frmLocalidades.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-11-22T13:29:49.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
